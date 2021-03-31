@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cindy-bot10
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C++
-- 💞️ I’m looking to collaborate on helping, learn, create with others on projects. 
+- 💞️ I’m looking to collaborate in helping, learn, create with others on projects. 
 - 📫 How to reach me email: guerra.cindy@outlook.com or mobile 515-612-2228
 
 <!---
